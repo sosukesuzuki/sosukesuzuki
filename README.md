@@ -1,3 +1,5 @@
-# Hi there, I'm sosukesuzuki
+# Hi there, I'm Sosuke Suzuki
 
-a undergraduate student at University of Tsukuba, a software developer in Japan. I maintain [prettier code formatter](https://github.com/prettier/prettier).
+- ✍️Undergraduate student at University of Tsukuba
+- 👩‍💻Software developer
+- 💖Maintainer of [Prettier](https://github.com/prettier/prettier)
